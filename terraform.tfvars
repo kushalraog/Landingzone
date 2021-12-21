@@ -1,0 +1,5 @@
+region = "europe-west2"
+gcp_project = "db-providence"
+credentials = "credentials.json"
+name    = "dev"
+subnet_cidr = "10.10.0.0/24"
